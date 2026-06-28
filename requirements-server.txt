@@ -1,0 +1,10 @@
+# Облегчённый набор для прод-деплоя на SQLite (без asyncpg, uvloop, тестов).
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.20
+SQLAlchemy[asyncio]==2.0.36
+aiosqlite==0.20.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+aiogram==3.17.0
+tzdata==2024.2
